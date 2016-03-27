@@ -1,0 +1,1 @@
+Sistema de administração escolar desenvolvido em PHP, utilizando princípios de Orientação a Objetos.
